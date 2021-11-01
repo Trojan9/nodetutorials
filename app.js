@@ -6,4 +6,4 @@ if(number<10){
 }else{
     console.log('big number')
 }
-console.log(`it's my first app!!`)
+console.log(`it's not me again`)
